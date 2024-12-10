@@ -1,0 +1,3 @@
+Supply Chain App
+
+ This application is designed to help businesses manage and organize their supply chains by allowing users to add entities like suppliers, manufacturers, warehouses, and retailers, and create flows between them. It also lets users remove flows, view the entire supply chain, and find the shortest path between any two entities. I developed this application to make it easier for businesses to understand and improve how goods move from production to consumption. By helping businesses manage their resources better and reduce delays, this tool can support local businesses and make the supply chain process more efficient and transparent for the community.
